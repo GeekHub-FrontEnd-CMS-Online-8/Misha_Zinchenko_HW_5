@@ -87,3 +87,65 @@ img.logo{
     color: #ffffff;
 }
 /* ------------------------------------ */
+.block_3{
+    height: 340px;
+    background-color: #f6f9f9;
+    padding: 81px;
+    text-align: center;
+}
+.block_3 h2{
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.block_3 p{
+    color: #999999;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    margin-top: 31px;
+}
+/* ------------------------------------ */
+.block_4{
+    height: 360px;
+    padding: 65px;
+    background: #ffffff;
+}
+
+.icon_1{
+    margin: 25px 25px 25px 25px;
+}
+/* ------------------------------------ */
+.block_5{
+    height: 900px;
+    background-color: #f6f9f9;
+}
+/* ------------------------------------ */
+.block_6{
+    height: 700px;
+    background: url(images/Layer_form.png) no-repeat center top/cover;
+}
+.block_6_bg{
+    background-color: #2d3950;
+    opacity: 0.9;
+    height: 700px;
+}
+/* ------------------------------------ */
+footer{
+    height: 90px;
+    background-color: #f6f9f9;
+}
+footer p{
+    float: left;
+    color: #999999;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.38px;
+    margin-top: 38px;
+}
+/* ------------------------------------ */
