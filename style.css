@@ -14,13 +14,28 @@ body{
 	width: 1200px;
 	margin: 0 auto;
 }
+h2{
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+h4{
+    color: #2d3950;
+    font-family: Lato;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 0.55px;
+    padding-top: 32px;
+}
 /* ------------------------------------ */
 header{
     background: #f6f9f9;
     height: 100px;
 }
 img.logo{
-    margin-top: 32px;;
+    margin-top: 32px;
 }
 /* ------------------------------------ */
 .block_2{
@@ -93,13 +108,6 @@ img.logo{
     padding: 81px;
     text-align: center;
 }
-.block_3 h2{
-    color: #2d3950;
-    font-family: Lato;
-    font-size: 40px;
-    font-weight: 400;
-    letter-spacing: 1px;
-}
 .block_3 p{
     color: #999999;
     font-family: Lato;
@@ -111,19 +119,35 @@ img.logo{
 }
 /* ------------------------------------ */
 .block_4{
-    height: 360px;
     padding: 65px;
     background: #ffffff;
-}
 
+}
+.block_4 p{
+    color: #999999;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.38px;
+    padding-top: 22px;
+}
 .icon_1{
     margin: 25px 25px 25px 25px;
 }
+.content_1{
+    width: 316px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 60px;
+}
 /* ------------------------------------ */
 .block_5{
-    height: 900px;
+    padding-top: 81px;
+    padding-bottom: 116px;
     background-color: #f6f9f9;
 }
+
 /* ------------------------------------ */
 .block_6{
     height: 700px;
