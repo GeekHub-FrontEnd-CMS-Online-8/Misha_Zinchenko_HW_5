@@ -193,6 +193,90 @@ img.logo{
     padding-top: 74px;
     color: #ffffff;
 }
+.block_6 p{
+    color: #999999;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.38px;
+}
+.p{
+    padding-top: 21px;
+}
+form{
+    width: 555px;
+    height: 330px;
+    margin: 0 auto 38px;
+}
+.form input{
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 22px;
+    background: transparent;
+	height: 60px;
+	border-radius: 2px;
+	border: 1px solid #999999;
+	padding: 25px 20px 25px 20px;
+}
+.form textarea{
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 22px;
+    resize: none;
+    background: transparent;
+	height: 160px;
+	border-radius: 2px;
+	border: 1px solid #999999;
+	padding: 25px 20px 25px 20px;
+    margin-bottom: 39px;
+}
+.form span{
+    width: 149px;
+    height: 11px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.38px;
+    margin-left: 16px;
+    margin-right: 232px;
+}
+.form input[type="checkbox"]{
+	width: 15px;
+	height: 15px;
+	border-radius: 2px;
+	border: 1px solid #9aa1ab;
+    background-color: #f6f9f9;
+    margin-top: 37px;
+}
+.btn_2{
+    height: 45px;
+    width: 145px;
+    border: 1px solid #15a4fa;
+    border-radius: 3px;
+    background: transparent;
+    color: #ffffff;
+    font-size: 18px;
+    float: right;
+    margin-top: 39px;
+    letter-spacing: 0.45px;
+    font-weight: 400;
+    line-height: 47px;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
+.btn_2:hover{
+    background: #15a4fa
+}
+.form span{
+    width: 149px;
+    height: 11px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.38px;
+}
 /* ------------------------------------ */
 footer{
     height: 90px;
@@ -206,5 +290,30 @@ footer p{
     font-weight: 400;
     letter-spacing: 0.38px;
     margin-top: 38px;
+}
+.f_1{
+    margin-top: 25px;
+    display: inline-block;
+    float: right;
+    width: 40px;
+    height: 40px;
+    background:  #15a4fa;
+    margin-left: 5px;
+}
+.f_1 img{
+    margin-top: 13px;
+    margin-left: 15px;
+}
+.f__1:hover{
+    background: #3B5998;
+}
+.f__2:hover{
+    background: #1dcaff;
+}
+.f__3:hover{
+    background: #DD4B39;
+}
+.f__4:hover{
+    background: #0077B5;
 }
 /* ------------------------------------ */
