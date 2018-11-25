@@ -63,13 +63,13 @@ img.logo{
     margin: 34px auto;
 }
 
-.block_2 hr:hover{
+/* .block_2 hr:hover{
     width: 600px;
     height: 4px;
     background-color: #15a4fa;
     border: none;
     margin: 34px auto;
-}
+} */
 
 .block_2 p{
     color: #ffffff;
